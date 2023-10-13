@@ -19,3 +19,7 @@
     background-color: aqua;
 }
 
+
+input:checked ~ label .modal_btn{
+    background-color: green;
+}
